@@ -52,7 +52,7 @@
     "json-rpc-engine": "^6.1.0",
     "json-rpc-middleware-stream": "^3.0.0",
     "pump": "^3.0.0",
-    "webextension-polyfill-ts": "^0.25.0"
+    "webextension-polyfill-ts": "^0.26.0"
   },
   "devDependencies": {
     "@lavamoat/allow-scripts": "^1.0.6",
